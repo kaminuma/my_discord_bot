@@ -23,10 +23,20 @@ discord.py install手順等
 
 https://github.com/Rapptz/discord.py/blob/async/README.md
 
-#randam botの記入部分#
 
 
 
-上記参照。
+
+ソースのrandam部分は1～20の数字を選ぶようになっているので
+
+デフォルトでは20分の1の確率設定になっています。
+
+trueでの返す文字列とelseで返す文字列はソースコードに書き加えてください
+
+例　true "当たり"
+　　else "全然だめだな"
+
+
+
 
 
